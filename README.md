@@ -192,15 +192,6 @@ Mentor: SURESH SIR
 
 ---
 
-## 📞 Support
-
-For questions or issues:
-- Open an GitHub Issue
-- Check existing documentation
-- Review examples in the `examples/` directory
-
----
-
 ## 🎓 References
 
 - C++ Standard Library Documentation
